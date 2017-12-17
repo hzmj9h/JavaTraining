@@ -1,0 +1,14 @@
+package com.htc.exercicesTest;
+
+import com.htc.exercices.Trainee;
+
+public class BatchTest {
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Trainee sem24 = new Trainee("1011","Karthick T",24,"Tiger@gmail.com","MALE",20);
+		
+		
+	}
+
+}
